@@ -1,0 +1,28 @@
+{
+    "name": "P2P_Core",
+    "description": "Creación de sistema de pases para reserva de clases en CoreIndoors",
+    "external_url": "https://www.instagram.com/p/CmsZHfHqzz6hUh2mrxp_yrpLKDN_gHbj_KSDZA0/",
+    "attributes":  [ 
+      {
+        "trait_type": "Cantidad de likes",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Amarillo"
+      },
+      {
+        "trait_type": "Usado en",
+        "value": "Foto de grupo de Whstsapp"
+      },
+      {
+        "trait_type": "Éxito de aplicación",
+        "value": "baja"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Fecha de creación",
+        "value": "21/10/2024"
+      }
+    ]
+  }
